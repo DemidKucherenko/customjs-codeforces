@@ -107,7 +107,7 @@ const dict = {
 "ArSarapkin": "Сарапкин Артём",
 "sputn1k": "Свирид Егор",
 "Yar_sem": "Семенюк Ярослав",
-"maks_simenkov": "Сименков Максим",
+"Maks_Simenkov": "Сименков Максим",
 "sirazeev": "Сиразеев Ильяс",
 "MaSkA05": "Скрипник Максим",
 "lerasimus": "Соболев Олег",
