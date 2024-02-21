@@ -210,7 +210,11 @@ const dict = {
 "vandr": "Вадченко Андрей",
 "mdku2005": "Кутянова Мария",
 "katyaporay": "Порай Екатерина",
-"-Danila": "Машков Данила"
+"-Danila": "Машков Данила",
+"Holpens": "Овчаров Иван",
+"0I0acOJleHbKa": "Поспелова Ольга",
+"dragonmuffin": "Мизёв Андрей",
+"GreatDevResh": "Решетников Максим"
 };
 
 // Rename users
