@@ -214,7 +214,9 @@ const dict = {
 "Holpens": "Овчаров Иван",
 "0I0acOJleHbKa": "Поспелова Ольга",
 "dragonmuffin": "Мизёв Андрей",
-"GreatDevResh": "Решетников Максим"
+"GreatDevResh": "Решетников Максим",
+"AndrewSap2": "Сапегин Андрей",
+"fireinferno": "Туров Макар"
 };
 
 // Rename users
