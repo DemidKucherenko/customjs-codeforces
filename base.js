@@ -216,7 +216,13 @@ const dict = {
 "dragonmuffin": "Мизёв Андрей",
 "GreatDevResh": "Решетников Максим",
 "AndrewSap2": "Сапегин Андрей",
-"fireinferno": "Туров Макар"
+"fireinferno": "Туров Макар",
+"vdv09": "Бугрышев Михаил",
+"KotlechkovEgor": "Котлечков Егор",
+"ivchenkoandrey2": "Ивченко Андрей",
+"SleepingCat": "Колоколов Александр",
+"Konobeitsev_Ivan": "Конобейцев Иван",
+"kuzi-": "Кузиванов Андрей"
 };
 
 // Rename users
