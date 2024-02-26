@@ -225,7 +225,8 @@ const dict = {
 "kuzi-": "Кузиванов Андрей",
 "Friendiks": "Ипатов Андрей",
 "yuriy.potekhin": "Потехин Юрий",
-"semwin2008": "Виноградов Семён"
+"semwin2008": "Виноградов Семён",
+"ANDREYkao__": "Кулаков Андрей"
 };
 
 // Rename users
